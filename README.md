@@ -74,11 +74,11 @@ peut remplacer trois développeurs et un stagiaire.
 
 <div align="center">
 
-![Souhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=58a6ff&text_color=a0a0b0)
+![Souhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kharbouchsouhail&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=58a6ff&text_color=a0a0b0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0b0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kharbouchsouhail&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=a0a0b0)
 
-![Streak Stats](https://streak-stats.demolab.com?user=TON_USERNAME&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=58a6ff&ring=58a6ff&fire=ffffff&currStreakLabel=ffffff)
+![Streak Stats](https://streak-stats.demolab.com?user=kharbouchsouhail&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=58a6ff&ring=58a6ff&fire=ffffff&currStreakLabel=ffffff)
 
 </div>
 
